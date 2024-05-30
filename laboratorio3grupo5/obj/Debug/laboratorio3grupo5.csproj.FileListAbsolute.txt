@@ -1,0 +1,7 @@
+C:\Users\Ulis6\OneDrive\Imágenes\grupo 5.cs\laboratorio3grupo5\laboratorio3grupo5\bin\Debug\laboratorio3grupo5.exe.config
+C:\Users\Ulis6\OneDrive\Imágenes\grupo 5.cs\laboratorio3grupo5\laboratorio3grupo5\bin\Debug\laboratorio3grupo5.exe
+C:\Users\Ulis6\OneDrive\Imágenes\grupo 5.cs\laboratorio3grupo5\laboratorio3grupo5\bin\Debug\laboratorio3grupo5.pdb
+C:\Users\Ulis6\OneDrive\Imágenes\grupo 5.cs\laboratorio3grupo5\laboratorio3grupo5\obj\Debug\laboratorio3grupo5.csproj.AssemblyReference.cache
+C:\Users\Ulis6\OneDrive\Imágenes\grupo 5.cs\laboratorio3grupo5\laboratorio3grupo5\obj\Debug\laboratorio3grupo5.csproj.CoreCompileInputs.cache
+C:\Users\Ulis6\OneDrive\Imágenes\grupo 5.cs\laboratorio3grupo5\laboratorio3grupo5\obj\Debug\laboratorio3grupo5.exe
+C:\Users\Ulis6\OneDrive\Imágenes\grupo 5.cs\laboratorio3grupo5\laboratorio3grupo5\obj\Debug\laboratorio3grupo5.pdb
